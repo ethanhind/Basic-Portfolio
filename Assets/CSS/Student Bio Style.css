@@ -3,5 +3,8 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #4aaaa5;
+    width: 960px;
+    margin-left: 100px;
+    margin-right: 400px;
 }
