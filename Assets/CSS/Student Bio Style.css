@@ -2,6 +2,7 @@ body {
     width: 960px;
     margin-left: 20%;
     margin-right: 20%;
+    background-image: url("http://static1.grsites.com/archive/textures/beige/beige001.jpg");
 }
 
 header {
@@ -54,5 +55,40 @@ img {
 }
 
 .sidebar{
-    float: left;
+    float: right;
+    width: 270px;
+    text-align: center;
+    background-color: white;
+}
+
+#GitHub {
+    height: 50px;
+    width: 50px;
+    padding-left: 20px;
+}
+
+#Linked {
+    height: 50px;
+    width: 50px;
+    padding-left: 20px;
+}
+
+#Overflow {
+    height: 50px;
+    width: 50px;
+    padding-left: 20px; 
+}
+
+.text {
+    font-size: 30px;
+    text-align: left;
+    background-color: white;
+    width: 650;
+    margin-right: 32%;
+    padding: 5%;
+}
+
+h2 {
+    background-color: white;
+    width: 650px;
 }
