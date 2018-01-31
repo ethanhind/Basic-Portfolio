@@ -50,9 +50,9 @@ h1 {
 }
 
 #face {
+    padding-right: 2px;
+    padding-bottom: 2px;
     position: absolute;
-    padding-right: 20px;
-    padding-bottom: 20px;
     top: 0px;
     left: 0px;
 }
@@ -87,16 +87,7 @@ h1 {
 
 .text {
     font-size: 30px;
-    text-align: left;
-    background-color: white;
-    width: 650;
-    height: 650;
-    margin-right: 32%;
-    padding: 5%;
-    border-style: solid;
-    border-color: #dddddd;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    position: relative;
 }
 
 h2 {
@@ -107,4 +98,12 @@ h2 {
 
 header {
     background-color: #ffffff
+}
+
+.main {
+    position: relative;
+    border-style: solid;
+    border-color: #dddddd;
+    background-color: white;
+    width: 650px;
 }
