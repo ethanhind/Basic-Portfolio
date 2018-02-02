@@ -137,8 +137,11 @@ footer {
     margin-left: -400px;
     margin-right: -400px;
     text-align: center;
-    height: 70px;
-    margin-top: 325px;
-    padding-bottom: -1px;
-    padding-top: 25px;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    width: 1000;
+    padding-right: 50%;
+    padding-left: 50%;
+    padding-top: 10px;
 }
